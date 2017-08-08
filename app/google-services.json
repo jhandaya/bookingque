@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "2121995628",
+    "firebase_url": "https://queue-33581.firebaseio.com",
+    "project_id": "queue-33581",
+    "storage_bucket": "queue-33581.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:2121995628:android:64f274d2083b4261",
+        "android_client_info": {
+          "package_name": "com.nirwanastudio.bookingque"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "2121995628-ubof6f0522bjsrhusqfe1fevk3adomec.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nirwanastudio.bookingque",
+            "certificate_hash": "ca03e1b7ed01a3feb2551d34f720bdba32542598"
+          }
+        },
+        {
+          "client_id": "2121995628-as20l0pnok6lvorl1ueevbp42jr949ee.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwT8OLZvHhleUcNfxHLuqHMMddCbnt37I"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "2121995628-as20l0pnok6lvorl1ueevbp42jr949ee.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
